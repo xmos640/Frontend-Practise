@@ -1,6 +1,6 @@
-# The Solution - https://xmos640.github.io/Frontend-Practise/qr-code-component-main/
-# Frontend Mentor - QR code component
 
+# Frontend Mentor - QR code component
+## The Solution - https://xmos640.github.io/Frontend-Practise/qr-code-component-main/
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
