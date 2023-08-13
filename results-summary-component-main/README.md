@@ -1,6 +1,8 @@
 
 # Frontend Mentor - Results summary component
-##Solution- https://xmos640.github.io/Frontend-Practise/results-summary-component-main/
+
+## Solution- https://xmos640.github.io/Frontend-Practise/results-summary-component-main/
+
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
